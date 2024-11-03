@@ -684,8 +684,8 @@
           "ID": 50
      },
      {
-          "Timestamp": "2024-11-03T23:04:51.057Z",
-          "Email Address": "test@test.com",
+          "Timestamp": "2024-11-03T23:09:22.782Z",
+          "Email Address": "danielle@test.com",
           "Full name": "Danielle Test",
           "Linkedin URL (optional)": "",
           "Could we use your Linkedin profile picture next to your story?": "No",
@@ -695,10 +695,10 @@
           "Select your role(s) on the team": "Development",
           "What is/was your specific role? (optional)": "",
           "When did you join Hack for LA? (optional)": "",
-          "What do you want to celebrate (select all that apply)?": "I got a new job, I produced something for my portfolio, I improved my LinkedIn, I set up 2FA, I taught or mentored a person on my team, I taught or mentored a person on another team, My team delivered software to a stakeholder",
-          "Give us a brief overview": "Test response.",
+          "What do you want to celebrate (select all that apply)?": "I got a new job, I produced something for my portfolio, I improved my LinkedIn, I learned how to work better on a team, I worked on two or more projects, I taught or mentored a person on my team, I taught or mentored a person on another team",
+          "Give us a brief overview": "Test.",
           "Display?": true,
           "Homepage?": false,
-          "ID": 51
+          "ID": 52
      }
 ]
