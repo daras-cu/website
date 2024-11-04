@@ -682,23 +682,5 @@
           "Display?": true,
           "Homepage?": false,
           "ID": 49
-     },
-     {
-          "Timestamp": "2024-11-03T23:27:45.234Z",
-          "Email Address": "danielle@test.com",
-          "Full name": "Danielle Test",
-          "Linkedin URL (optional)": "",
-          "Could we use your Linkedin profile picture next to your story?": "No",
-          "Github URL (optional)": "",
-          "Could we use your Github profile picture next to your story?": "No",
-          "Select the team(s) you're on": "HackforLA Website",
-          "Select your role(s) on the team": "Development",
-          "What is/was your specific role? (optional)": "",
-          "When did you join Hack for LA? (optional)": "",
-          "What do you want to celebrate (select all that apply)?": "I got a new job, I produced something for my portfolio, I learned how to work better on a team, I increased the number of commits on my Github profile, I set up 2FA, I worked on two or more projects, I taught or mentored a person on another team",
-          "Give us a brief overview": "Test response.",
-          "Display?": true,
-          "Homepage?": false,
-          "ID": 51
      }
 ]
