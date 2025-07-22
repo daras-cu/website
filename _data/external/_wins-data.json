@@ -760,23 +760,23 @@
           "ID": 49
      },
      {
-          "Timestamp": "2025-07-21T23:15:37.775Z",
+          "Timestamp": "2025-07-21T23:42:23.419Z",
           "Email Address": "danielle@test.com",
-          "Full name": "Danielle Test",
+          "Full name": "Danielle Aras",
           "Linkedin URL (optional)": "https://www.linkedin.com/in/daniellehansonaras/",
-          "LinkedIn Name": "",
-          "Could we use your Linkedin profile picture next to your story?": "daniellehansonaras",
+          "LinkedIn Name": "daniellehansonaras",
+          "Could we use your Linkedin profile picture next to your story?": "Yes",
           "Github URL (optional)": "https://github.com/daras-cu",
-          "GitHub Handle": "",
-          "Could we use your Github profile picture next to your story?": "Yes",
-          "Select the team(s) you're on": "daras-cu",
+          "GitHub Handle": "daras-cu",
+          "Could we use your Github profile picture next to your story?": "No",
+          "Select the team(s) you're on": "HackforLA Website",
           "Select your role(s) on the team": "Development",
           "What is/was your specific role? (optional)": "",
           "When did you join Hack for LA? (optional)": "",
-          "What do you want to celebrate (select all that apply)?": "I produced something for my portfolio, I improved my LinkedIn",
+          "What do you want to celebrate (select all that apply)?": "I improved my LinkedIn, I worked on a project that will help the people of Los Angeles",
           "Give us a brief overview": "Test",
           "Display?": true,
           "Homepage?": false,
-          "ID": 51
+          "ID": 52
      }
 ]
