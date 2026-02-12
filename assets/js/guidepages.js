@@ -50,7 +50,7 @@ document.addEventListener('scroll', scrollHandler, true);
 // alignment of page card with its corresponding link on the sticky navigation 
 function scrollHandler() {
     const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
-    currentActive = document.getElementsByClassName('is-active')[0];
+    let currentActive = document.getElementsByClassName('is-active')[0];
     for (let i = 0; i < qlArray.length - 1; i++) {
         const top = document.getElementById(qlArray[i]).getBoundingClientRect().top
         const bottom = document.getElementById(qlArray[i + 1]).getBoundingClientRect().top
