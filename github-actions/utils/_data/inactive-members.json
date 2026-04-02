@@ -1,52 +1,38 @@
 {
   "removedContributors": [
-    "FatCatLikesBeer",
-    "Cloid",
-    "gabbyjimenez",
-    "DDVVPP",
-    "aswutmaxcy",
-    "NomadCode33",
-    "TheManTheMythTheGameDev",
-    "Maarimar",
-    "kelwilson",
-    "caz002",
-    "RDX-Rajat-Savdekar",
-    "Sumaiyya-Zunairah",
-    "priyanka02art"
-  ],
-  "notifiedContributors": [
     "shu1513",
     "KSamra",
     "santiseccovidal",
     "Colombianah",
-    "owaisjunedi",
-    "Kphalguni",
     "Tanay-14"
   ],
+  "notifiedContributors": [
+    "ijoel",
+    "aadilahmed",
+    "nurbu",
+    "cadenramey",
+    "ldaws003",
+    "dvernon5",
+    "AnujaSuryawanshi",
+    "kevJ711",
+    "handshek",
+    "sofiatajide",
+    "ciddy0",
+    "varyad",
+    "lastCoyotes",
+    "michael-4",
+    "MohamedTwahir",
+    "Nezzer3",
+    "lc1715",
+    "devhaocui",
+    "Mykola-Lopushenko",
+    "kimberlyvaldez07",
+    "izzy-me"
+  ],
   "nonTeamOpenIssue": {
-    "Sumaiyya-Zunairah": [
-      8400
-    ],
-    "caz002": [
-      8128
-    ],
-    "Maarimar": [
-      8065
-    ],
-    "Eleftherios01": [
-      7725
-    ],
-    "aswutmaxcy": [
-      6424
+    "santiseccovidal": [
+      6426
     ]
   },
-  "inactiveOpenIssue": {
-    "ad-vil": [
-      7505,
-      8017
-    ],
-    "Eleftherios01": [
-      7725
-    ]
-  }
+  "inactiveOpenIssue": {}
 }
