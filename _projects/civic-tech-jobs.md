@@ -92,6 +92,7 @@ technologies:
   - Figma
   - AWS
   - MKDocs
+  - Vite
 tools:
 location:
   - Remote
