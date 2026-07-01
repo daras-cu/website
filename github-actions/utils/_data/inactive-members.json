@@ -1,22 +1,22 @@
 {
   "removedContributors": [
-    "seb-mejia",
-    "DanielTsang26"
-  ],
-  "notifiedContributors": [
     "DakuwoN",
     "handshek",
-    "aayush24rai",
     "bragelbytes",
     "varyad",
-    "Kphalguni",
-    "abinetabate1"
+    "Kphalguni"
+  ],
+  "notifiedContributors": [
+    "aymeviviana",
+    "aadilahmed",
+    "dvernon5",
+    "viet456",
+    "GRISONRF",
+    "myronchen-git",
+    "r-a-q",
+    "ibrahimouarrach3-tech",
+    "kirandhamotharan"
   ],
   "nonTeamOpenIssue": {},
-  "inactiveOpenIssue": {
-    "Kphalguni": [
-      7460,
-      7539
-    ]
-  }
+  "inactiveOpenIssue": {}
 }
