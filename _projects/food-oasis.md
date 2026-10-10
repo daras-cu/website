@@ -7,7 +7,7 @@ alt: 'Food Oasis'
 image-hero: /assets/images/projects/food-oasis-hero.jpg
 leadership:
   - name: John Darragh
-    github-handle:
+    github-handle: entrotech
     role: Lead Developer
     links:
       slack: "https://hackforla.slack.com/team/UFLDX9V19"
